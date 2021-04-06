@@ -1,0 +1,13 @@
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\nikol\OneDrive\Desktop\Classes\SEDC-GitHubFiles\sedc_g5_recap\Class06_Recap\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
