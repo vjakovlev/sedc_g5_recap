@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nikol\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\SEDC-GitHubFiles\\sedc_g5_recap\\Class06_Recap\\Exercise2\\Exercise2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\sedc_g5_recap\\Class06_Recap\\Exercise2\\Exercise2.csproj",
       "projectName": "Exercise2",
-      "projectPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\SEDC-GitHubFiles\\sedc_g5_recap\\Class06_Recap\\Exercise2\\Exercise2.csproj",
-      "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikol\\OneDrive\\Desktop\\Classes\\SEDC-GitHubFiles\\sedc_g5_recap\\Class06_Recap\\Exercise2\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\sedc_g5_recap\\Class06_Recap\\Exercise2\\Exercise2.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\sedc_g5_recap\\Class06_Recap\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
