@@ -10,6 +10,10 @@ namespace Exercise3
         public string Academy { get; set; }
         public string Group { get; set; }
 
+        public Student()
+        {
+
+        }
 
         public Student(string name, string academy, string group)
         {
